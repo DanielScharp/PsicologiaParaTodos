@@ -1,0 +1,11 @@
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\bin\Debug\net8.0\Psicologia.Domain.deps.json
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\bin\Debug\net8.0\Psicologia.Domain.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\bin\Debug\net8.0\Psicologia.Domain.pdb
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.AssemblyInfo.cs
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\refint\Psicologia.Domain.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.pdb
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\ref\Psicologia.Domain.dll

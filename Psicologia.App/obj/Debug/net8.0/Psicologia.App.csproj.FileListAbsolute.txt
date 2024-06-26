@@ -1,0 +1,17 @@
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.App.deps.json
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.App.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.App.pdb
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.Database.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.Domain.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.Database.pdb
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\bin\Debug\net8.0\Psicologia.Domain.pdb
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.csproj.AssemblyReference.cache
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.AssemblyInfoInputs.cache
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.AssemblyInfo.cs
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.csproj.CopyComplete
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\refint\Psicologia.App.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\Psicologia.App.pdb
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.App\obj\Debug\net8.0\ref\Psicologia.App.dll

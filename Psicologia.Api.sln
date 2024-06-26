@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psicologia.Api", "Psicologia.Api\Psicologia.Api.csproj", "{FF34BB39-B910-4741-B3A9-BC14544E03F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psicologia.Database", "Psicologia.Database\Psicologia.Database.csproj", "{A7977F6E-C670-4236-9E1D-54341CDF72FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psicologia.App", "Psicologia.App\Psicologia.App.csproj", "{ABB0CAA6-677D-41DE-A4AD-F6C6F1882E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psicologia.Domain", "Psicologia.Domain\Psicologia.Domain.csproj", "{F0BF1C47-A3EB-480C-8784-65D371AAE201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF34BB39-B910-4741-B3A9-BC14544E03F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF34BB39-B910-4741-B3A9-BC14544E03F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF34BB39-B910-4741-B3A9-BC14544E03F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF34BB39-B910-4741-B3A9-BC14544E03F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7977F6E-C670-4236-9E1D-54341CDF72FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7977F6E-C670-4236-9E1D-54341CDF72FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7977F6E-C670-4236-9E1D-54341CDF72FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7977F6E-C670-4236-9E1D-54341CDF72FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB0CAA6-677D-41DE-A4AD-F6C6F1882E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB0CAA6-677D-41DE-A4AD-F6C6F1882E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB0CAA6-677D-41DE-A4AD-F6C6F1882E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB0CAA6-677D-41DE-A4AD-F6C6F1882E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0BF1C47-A3EB-480C-8784-65D371AAE201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0BF1C47-A3EB-480C-8784-65D371AAE201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0BF1C47-A3EB-480C-8784-65D371AAE201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0BF1C47-A3EB-480C-8784-65D371AAE201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B4CD0B-C0AF-4DB8-8F91-0E47F79E0FA3}
+	EndGlobalSection
+EndGlobal
