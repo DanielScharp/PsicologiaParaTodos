@@ -4,7 +4,7 @@ using Psicologia.App;
 
 namespace ExemploApiNetCore8.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/")]
     [ApiController]
     public class UsuarioController : ControllerBase
     {
@@ -15,6 +15,7 @@ namespace ExemploApiNetCore8.Api.Controllers
             _usuarioApplication = usuarioApplication;
         }
 
+        [Route("listar")]
         [HttpGet]
         public async Task<IActionResult> Listar()
         {

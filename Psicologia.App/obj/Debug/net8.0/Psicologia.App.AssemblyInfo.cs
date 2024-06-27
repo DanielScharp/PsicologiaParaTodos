@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Psicologia.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4c5b2ba15bfbe0400f1c7db953476205a78399")]
 [assembly: System.Reflection.AssemblyProductAttribute("Psicologia.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Psicologia.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

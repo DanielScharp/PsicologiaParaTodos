@@ -9,3 +9,4 @@ C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicolo
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\refint\Psicologia.Domain.dll
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.pdb
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\ref\Psicologia.Domain.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Domain\obj\Debug\net8.0\Psicologia.Domain.sourcelink.json

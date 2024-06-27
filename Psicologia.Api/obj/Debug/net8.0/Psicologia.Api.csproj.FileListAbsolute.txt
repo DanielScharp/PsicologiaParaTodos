@@ -59,3 +59,4 @@ C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicolo
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Api\obj\Debug\net8.0\Psicologia.Api.pdb
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Api\obj\Debug\net8.0\Psicologia.Api.genruntimeconfig.cache
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Api\obj\Debug\net8.0\ref\Psicologia.Api.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Api\obj\Debug\net8.0\Psicologia.Api.sourcelink.json

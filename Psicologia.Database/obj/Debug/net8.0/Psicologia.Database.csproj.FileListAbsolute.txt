@@ -13,3 +13,4 @@ C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicolo
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Database\obj\Debug\net8.0\refint\Psicologia.Database.dll
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Database\obj\Debug\net8.0\Psicologia.Database.pdb
 C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Database\obj\Debug\net8.0\ref\Psicologia.Database.dll
+C:\Users\Daniel.scharp\Desktop\Repositorios\c#\Psicologia\Psicologia.Api\Psicologia.Database\obj\Debug\net8.0\Psicologia.Database.sourcelink.json
